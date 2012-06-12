@@ -1,0 +1,13 @@
+{
+  "parts": [
+    {
+      "name": "sketchspace",
+      "hooks": {
+        "eejsBlock_styles": "ep_sketchspace_impexp_svg/hooks:eejsBlock_styles"
+      },
+      "client_hooks": {
+        "sketchSpaceDesigner_designer_DesignerUI_startup": "ep_sketchspace_impexp_svg/static/js/hooks:sketchSpaceDesigner_designer_DesignerUI_startup"
+      }
+    }
+  ]
+}

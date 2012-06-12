@@ -1,0 +1,9 @@
+{
+  "name": "ep_sketchspace_impexp_svg",
+  "description": "SVG import/export for SketchSpace",
+  "version": "0.0.1",
+  "author": "RedHog (Egil Moeller) <egil.moller@freecode.no>",
+  "contributors": [],
+  "dependencies": {},
+  "engines": { "node": ">= 0.4.1 < 0.7.0" }
+}
